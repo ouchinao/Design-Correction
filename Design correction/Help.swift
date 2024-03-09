@@ -10,7 +10,7 @@ import SwiftUI
 struct HelpView: View {
     var body: some View {
         // ヘルプ画面のコンテンツ
-        Text("")
+        Text("ここに本文")
             .toolbar {
                 // 中央に大きなタイトルを表示
                 ToolbarItem(placement: .principal) {
